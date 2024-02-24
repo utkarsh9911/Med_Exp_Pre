@@ -29,7 +29,8 @@ list_of_files = [
     f"configs/config.yaml",
     "requirements.txt",
     "setup.py",
-    "main.py"
+    "main.py",
+    "data_dump.py"
     
 
 ]
