@@ -9,9 +9,16 @@ watchfiles==0.17.0
 websockets==10.3
 wincertstore==0.2
 xgboost==1.6.2
+dill == 0.3.5.1
 pandas
 PyYAML
 numpy
 scikit-learn
 apache-airflow
+pymongo
+streamlit
+types-s3transfer==0.6.0.post4
+matplotlib
+seaborn
+pickle
 -e .
